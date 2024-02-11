@@ -1,4 +1,5 @@
 # Local Chatapp
+![local_chatapp](https://github.com/codycordova/local-chatapp/assets/93851598/eba6467b-6e7a-489a-8bba-f651b1d4b58c)
 
 ## Dependencies
 
